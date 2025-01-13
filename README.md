@@ -1,6 +1,10 @@
 # Awesome-Visual-Autoregressive
 
 This is a curated list of recent visual autoregressive modeling works, including image/video/3D/multi-modal generation and its application in other aspects (e.g., perception, etc.).
+<div style="text-align: center;">
+    <img src="asset/teaser.jpeg" style="max-width: 40%; height: auto;" alt="描述文字" />
+</div>
+
 
 ## Survey
 
@@ -14,11 +18,11 @@ This is a curated list of recent visual autoregressive modeling works, including
 ## Image Generation
 
 
-- **<font color="red">!!! Non-Autoregressive !!! </font> MaskGIT: Masked Generative Image Transformer**
+- **MaskGIT: Masked Generative Image Transformer**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.04200)
   [![Star](https://img.shields.io/github/stars/dome272/MaskGIT-pytorch.svg?style=social&label=Star)](https://github.com/dome272/MaskGIT-pytorch)
 
-- **<font color="red">!!! Non-Autoregressive !!! </font> MAGVIT: Masked Generative Video Transformer**
+- **MAGVIT: Masked Generative Video Transformer**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05199)
   [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit)
 
