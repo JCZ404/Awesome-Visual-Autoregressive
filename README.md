@@ -4,6 +4,8 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 ### Survey
 - [Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey](https://arxiv.org/abs/2412.18619)
+  
+- [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](http://arxiv.org/abs/2410.22217)
 
 ### Image Generation
 - [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)
@@ -30,5 +32,4 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 - [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2410.13848)
 
-- [
 - [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](http://arxiv.org/abs/2412.03069)
