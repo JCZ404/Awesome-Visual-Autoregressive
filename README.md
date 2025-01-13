@@ -21,8 +21,16 @@ This is a curated list of recent visual autoregressive modeling works, including
 - [M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation](http://arxiv.org/abs/2411.10433)
 
  - [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](http://arxiv.org/abs/2412.01827)
-   
+
+- [X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](http://arxiv.org/abs/2412.01824)
+
 - [StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation](https://arxiv.org/abs/2501.05763)
+
+#### Control & Editing
+- [CAR: Controllable Autoregressive Modeling for Visual Generation](http://arxiv.org/abs/2410.04671)
+  
+- [EditAR: Unified Conditional Generation with Autoregressive Models](http://arxiv.org/abs/2501.04699)
+
 ### Video Generation
 - [DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models](http://arxiv.org/abs/2412.04446)
 ### 3D Generation
