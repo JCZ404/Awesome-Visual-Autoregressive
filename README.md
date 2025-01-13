@@ -1,4 +1,4 @@
-# Awesome-Visual-Autoregressive
+# Awesome Visual Autoregressive
 
 This is a curated list of recent visual autoregressive modeling works, including image/video/3D/multi-modal generation and its application in other aspects (e.g., perception, etc.).
 <div style="text-align: center;">
