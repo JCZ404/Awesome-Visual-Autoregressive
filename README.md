@@ -164,7 +164,11 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.04446)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://liyizhuo.com/DiCoDe/)
-  
+
+- **An Empirical Study of Autoregressive Pre-training from Videos**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05453)
+ [![Website](https://img.shields.io/badge/Website-9cf)](https://brjathu.github.io/toto/)
+
 ## 3D Generation
 
 - **TAR3D: Creating High-quality 3D Assets via Next-Part Prediction**
@@ -197,7 +201,6 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.03069)
  [![Star](https://img.shields.io/github/stars/mit-han-lab/vila-u.svg?style=social&label=Star)](https://github.com/mit-han-lab/vila-u)
-
 
 - **MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.10798)
