@@ -2,7 +2,7 @@
 
 This is a curated list of recent visual autoregressive modeling works, including image/video/3D/multi-modal generation and its application in other aspects (e.g., perception, etc.).
 <div style="text-align: center;">
-    <img src="asset/teaser.jpeg" style="max-width: 30%; height: auto;" alt="描述文字" />
+    <img src="asset/teaser.png" style="max-width: 30%; height: auto;" alt="描述文字" />
 </div>
 
 
