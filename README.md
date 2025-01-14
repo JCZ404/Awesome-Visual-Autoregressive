@@ -165,6 +165,10 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.04446)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://liyizhuo.com/DiCoDe/)
 
+- **Autoregressive Video Generation without Vector Quantization**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14169)
+  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/baaivision/NOVA)
+  
 - **An Empirical Study of Autoregressive Pre-training from Videos**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05453)
  [![Website](https://img.shields.io/badge/Website-9cf)](https://brjathu.github.io/toto/)
