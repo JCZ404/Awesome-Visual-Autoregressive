@@ -170,7 +170,10 @@ This is a curated list of recent visual autoregressive modeling works, including
  [![Website](https://img.shields.io/badge/Website-9cf)](https://brjathu.github.io/toto/)
 
 ## 3D Generation
-
+- **SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16856)
+  [![Star](https://img.shields.io/github/stars/cyw-3d/SAR3D.svg?style=social&label=Star)](https://github.com/cyw-3d/SAR3D)
+  
 - **TAR3D: Creating High-quality 3D Assets via Next-Part Prediction**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16919)
   [![Star](https://img.shields.io/github/stars/HVision-NKU/TAR3D.svg?style=social&label=Star)](https://github.com/HVision-NKU/TAR3D)
