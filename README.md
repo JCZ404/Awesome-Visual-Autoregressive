@@ -198,12 +198,35 @@ This is a curated list of recent visual autoregressive modeling works, including
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.13848)
  [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
 
+- **SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2404.14396)
+ [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-X.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED-X)
+
+- **(LLamaFusion)LMFusion: Adapting Pretrained Language Models for Multimodal Generation**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15188)
+
+- **DreamLLM: Synergistic Multimodal Comprehension and Creation**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
+  [![Star](https://img.shields.io/github/stars/RunpeiDong/DreamLLM.svg?style=social&label=Star)](https://github.com/RunpeiDong/DreamLLM)
+
+- **Emu3: Next-Token Prediction is All You Need**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
+  [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/baaivision/Emu3)
+
 - **Liquid: Language Models are Scalable Multi-modal Generators**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.04332)
  [![Star](https://img.shields.io/github/stars/FoundationVision/Liquid.svg?style=social&label=Star)](https://github.com/FoundationVision/Liquid)
 
+- **MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14164)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tsb0601.github.io/metamorph/)
+
 - **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.13848)
+ [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
+
+- **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07975)
  [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
 
 - **TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation**
