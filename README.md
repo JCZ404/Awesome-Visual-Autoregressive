@@ -154,6 +154,9 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05763)
 
+- **IAR: Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2501.00880)
+  [![Star](https://img.shields.io/github/stars/sjtuplayer/IAR.svg?style=social&label=Star)](https://github.com/sjtuplayer/IAR)
   
 ## Video Generation
 
