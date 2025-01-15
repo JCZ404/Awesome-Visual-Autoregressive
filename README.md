@@ -1,6 +1,6 @@
 # Awesome Visual Autoregressive
 
-This is a curated list of recent visual autoregressive modeling works, including image/video/3D/multi-modal generation and its application in other aspects (e.g., perception, etc.).
+This is a curated list of recent visual autoregressive modeling works, including image/video/3D/multi-modal generation but not limited to these. It aims to include all the relevant latest papers about visual autoregressive to save you time. Any suggestions and pull requests are welcomed!
 <p align="center">
     <img src="asset/teaser.png" width="50%">
 </p>
@@ -190,11 +190,9 @@ This is a curated list of recent visual autoregressive modeling works, including
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2408.11039)
  [![Star](https://img.shields.io/github/stars/FoundationVision/transfusion-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/transfusion-pytorch)
 
-
 - **Show-o: One Single Transformer To Unify Multimodal Understanding and Generation**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.13848)
  [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
-
 
 - **Liquid: Language Models are Scalable Multi-modal Generators**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.04332)
@@ -214,4 +212,9 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 - **MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.10798)
+
+- **Dual Diffusion for Unified Image Generation and Understanding**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2501.00289)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zijieli-jlee.github.io/dualdiff.github.io/)
+
 
