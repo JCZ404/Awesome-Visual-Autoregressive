@@ -171,6 +171,10 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **NOVA: Autoregressive Video Generation without Vector Quantization**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14169)
   [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/baaivision/NOVA)
+
+- **CausVid: From Slow Bidirectional to Fast Autoregressive Video Diffusion Models**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.07772)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
   
 - **An Empirical Study of Autoregressive Pre-training from Videos**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05453)
