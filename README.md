@@ -202,6 +202,10 @@ This is a curated list of recent visual autoregressive modeling works, including
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09818)
  [![Star](https://img.shields.io/github/stars/facebookresearch/chameleon.svg?style=social&label=Star)](https://github.com/facebookresearch/chameleon)
 
+- **Emu3: Next-Token Prediction is All You Need**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
+ [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/baaivision/Emu3)
+
 - **Liquid: Language Models are Scalable Multi-modal Generators**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.04332)
  [![Star](https://img.shields.io/github/stars/FoundationVision/Liquid.svg?style=social&label=Star)](https://github.com/FoundationVision/Liquid)
