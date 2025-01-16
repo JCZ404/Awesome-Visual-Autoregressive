@@ -198,6 +198,21 @@ This is a curated list of recent visual autoregressive modeling works, including
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.13848)
  [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
 
+- **SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14396)
+ [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-X.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED-X)
+
+- **DreamLLM: Synergistic Multimodal Comprehension and Creation**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11499)
+ [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-X.svg?style=social&label=Star)](https://github.com/RunpeiDong/DreamLLM)
+
+- **(LlamaFusion)LMFusion: Adapting Pretrained Language Models for Multimodal Generation**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15188)
+
+- **MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14164)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tsb0601.github.io/metamorph/)
+
 - **Chameleon: Mixed-Modal Early-Fusion Foundation Models**
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09818)
  [![Star](https://img.shields.io/github/stars/facebookresearch/chameleon.svg?style=social&label=Star)](https://github.com/facebookresearch/chameleon)
