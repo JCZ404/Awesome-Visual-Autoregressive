@@ -157,7 +157,7 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2501.00880)
   [![Star](https://img.shields.io/github/stars/sjtuplayer/IAR.svg?style=social&label=Star)](https://github.com/sjtuplayer/IAR)
 
-- **ViTok: Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction**
+- **ViTok: Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.09755)
   
 ## Video Generation
