@@ -102,7 +102,6 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17787)
   [![Star](https://img.shields.io/github/stars/czg1225/CoDe.svg?style=social&label=Star)](https://github.com/czg1225/CoDe)
   
-  
 - **VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.01181)
   [![Star](https://img.shields.io/github/stars/daixiangzi/VAR-CLIP.svg?style=social&label=Star)](https://github.com/daixiangzi/VAR-CLIP)
@@ -157,6 +156,9 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **IAR: Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2501.00880)
   [![Star](https://img.shields.io/github/stars/sjtuplayer/IAR.svg?style=social&label=Star)](https://github.com/sjtuplayer/IAR)
+
+- **ViTok: Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.09755)
   
 ## Video Generation
 
