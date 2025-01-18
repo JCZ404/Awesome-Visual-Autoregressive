@@ -57,6 +57,9 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
   [![Star](https://img.shields.io/github/stars/poppuppy/SAR.svg?style=social&label=Star)](https://github.com/poppuppy/SAR)
   
+- **STAR: Scale-wise Text-to-image generation via Auto-Regressive representations**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10797)
+ [![Website](https://img.shields.io/badge/Website-9cf)](https://krennic999.github.io/STAR/)
   
 - **Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.13863)
@@ -77,6 +80,9 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04410)
   [![Star](https://img.shields.io/github/stars/TencentARC/SEED-Voken.svg?style=social&label=Star)](https://github.com/TencentARC/SEED-Voken)
 
+- **DARL: Denoising Autoregressive Representation Learning**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05196)
+
 - **TiTok: An Image is Worth 32 Tokens for Reconstruction and Generation**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07550)
   [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer)
@@ -89,7 +95,6 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **ImageFolder: Autoregressive Image Generation with Folded Tokens**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.01756)
   [![Star](https://img.shields.io/github/stars/lxa9867/ImageFolder.svg?style=social&label=Star)](https://github.com/lxa9867/ImageFolder)  
-
 
 - **DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08159)
@@ -118,21 +123,17 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.07614v1)
   [![Star](https://img.shields.io/github/stars/fusiming3/MARS.svg?style=social&label=Star)](https://github.com/fusiming3/MARS)
 
-  
 - **FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15205)
   [![Star](https://img.shields.io/github/stars/OliverRensu/FlowAR.svg?style=social&label=Star)](https://github.com/OliverRensu/FlowAR)
-
 
 - **CAR: Controllable Autoregressive Modeling for Visual Generation**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2410.04671)
   [![Star](https://img.shields.io/github/stars/hustvl/ControlAR.svg?style=social&label=Star)](https://github.com/hustvl/ControlAR)
 
-
 - **CCA: Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.09347)
   [![Star](https://img.shields.io/github/stars/thu-ml/CCA.svg?style=social&label=Star)](https://github.com/thu-ml/CCA)
-
 
 - **Scalable Autoregressive Image Generation with Mamba**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12245)
@@ -149,7 +150,37 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **EditAR: Unified Conditional Generation with Autoregressive Models**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2501.04699)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jitengmu.github.io/EditAR/)
+
+- **LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17178)
   
+- **XTRA: Sample- and Parameter-Efficient Auto-Regressive Image Models**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.15648)
+  [![Star](https://img.shields.io/github/stars/lxa9867/ControlVAR.svg?style=social&label=Star)](https://github.com/elad-amrani/xtra)
+
+- **Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01819)
+  [![Star](https://img.shields.io/github/stars/yandex-research/switti.svg?style=social&label=Star)](https://github.com/yandex-research/switti)
+
+- **ZipAR: Accelerating Auto-regressive Image Generation through Spatial Locality**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04062)
+  [![Star](https://img.shields.io/github/stars/ThisisBillhe/ZipAR.svg?style=social&label=Star)](https://github.com/ThisisBillhe/ZipAR)
+
+- **E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14170)
+ 
+- **PAR: Parallelized Autoregressive Visual Generation**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15119)
+  [![Star](https://img.shields.io/github/stars/Epiphqny/PAR.svg?style=social&label=Star)](https://github.com/Epiphqny/PAR)
+
+- **NPP: Next Patch Prediction for Autoregressive Visual Generation**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15321)
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Next-Patch-Prediction.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
+
+- **Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17153)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://imagination-research.github.io/distilled-decoding/)
+
 - **X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.01824)
   [![Star](https://img.shields.io/github/stars/SunzeY/X-Prompt.svg?style=social&label=Star)](https://github.com/SunzeY/X-Prompt)
@@ -239,8 +270,11 @@ This is a curated list of recent visual autoregressive modeling works, including
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.03069)
  [![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)](https://github.com/ByteFlow-AI/TokenFlow)
 
+- **JetFormer: An Autoregressive Generative Model of Raw Images and Text**
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19722)
+  
 - **VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**
- [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.03069)
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04429)
  [![Star](https://img.shields.io/github/stars/mit-han-lab/vila-u.svg?style=social&label=Star)](https://github.com/mit-han-lab/vila-u)
 
 - **MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**
