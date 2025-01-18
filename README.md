@@ -141,7 +141,11 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **ControlVAR: Exploring Controllable Visual Autoregressive Modeling**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.09750)
   [![Star](https://img.shields.io/github/stars/lxa9867/ControlVAR.svg?style=social&label=Star)](https://github.com/lxa9867/ControlVAR)
-  
+
+- **DnD-Transformer: A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Fine-grained Image Generation**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.01912)
+  [![Star](https://img.shields.io/github/stars/lxa9867/ControlVAR.svg?style=social&label=Star)](https://github.com/chenllliang/DnD-Transformer)
+
 - **EditAR: Unified Conditional Generation with Autoregressive Models**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2501.04699)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jitengmu.github.io/EditAR/)
