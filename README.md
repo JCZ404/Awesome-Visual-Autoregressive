@@ -288,6 +288,10 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2501.00289)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zijieli-jlee.github.io/dualdiff.github.io/)
 
+- **VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.12327)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vargpt-1.github.io/)
+
 ## Autonomous Driving
 - **DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.19505)
