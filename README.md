@@ -292,6 +292,10 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.12327)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vargpt-1.github.io/)
 
+- **QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05178)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/QLIP/)
+
 ## Autonomous Driving
 - **DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2412.19505)
