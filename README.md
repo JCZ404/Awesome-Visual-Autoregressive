@@ -194,6 +194,10 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 - **ViTok: Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.09755)
+
+- **FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.13967)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://flextok.epfl.ch/)
   
 ## Video Generation
 
