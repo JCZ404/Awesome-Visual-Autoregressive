@@ -202,6 +202,9 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **Fractal Generative Models**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17437)
   [![Star](https://img.shields.io/github/stars/sjtuplayer/IAR.svg?style=social&label=Star)](https://github.com/LTH14/fractalgen)
+
+- **IGTR: Autoregressive Image Generation Guided by Chains of Thought**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.16965)
   
 ## Video Generation
 
