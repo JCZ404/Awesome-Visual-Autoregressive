@@ -198,6 +198,10 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.13967)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://flextok.epfl.ch/)
+
+- **Fractal Generative Models**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17437)
+  [![Star](https://img.shields.io/github/stars/sjtuplayer/IAR.svg?style=social&label=Star)](https://github.com/LTH14/fractalgen)
   
 ## Video Generation
 
@@ -224,6 +228,11 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **CTF: Taming Teacher Forcing for Masked Autoregressive Video Generation**
    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.12389)
    [![Website](https://img.shields.io/badge/Website-9cf)](https://magivideogen.github.io/)
+
+- **Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07737)
+   [![Star](https://img.shields.io/github/stars/cyw-3d/SAR3D.svg?style=social&label=Star)](https://github.com/RenShuhuai-Andy/NBP)
+   [![Website](https://img.shields.io/badge/Website-9cf)](https://renshuhuai-andy.github.io/NBP-project/)
 
 ## 3D Generation
 - **SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**
