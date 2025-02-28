@@ -209,7 +209,17 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20388)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://oliverrensu.github.io/project/xAR/)
-  
+
+- **UniTok: A Unified Tokenizer for Visual Generation and Understanding**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20321)
+  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
+
+- **FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20313)
+  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/jiaosiyu1999/FlexVAR)
+
+
+
 ## Video Generation
 
 - **Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**
@@ -240,6 +250,7 @@ This is a curated list of recent visual autoregressive modeling works, including
    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07737)
    [![Star](https://img.shields.io/github/stars/cyw-3d/SAR3D.svg?style=social&label=Star)](https://github.com/RenShuhuai-Andy/NBP)
    [![Website](https://img.shields.io/badge/Website-9cf)](https://renshuhuai-andy.github.io/NBP-project/)
+  
 
 ## 3D Generation
 - **SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**
@@ -249,6 +260,10 @@ This is a curated list of recent visual autoregressive modeling works, including
 - **TAR3D: Creating High-quality 3D Assets via Next-Part Prediction**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16919)
   [![Star](https://img.shields.io/github/stars/HVision-NKU/TAR3D.svg?style=social&label=Star)](https://github.com/HVision-NKU/TAR3D)
+
+- **ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20323)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xg-chu.site/project_artalk/)
   
 ## Multi-Modal
 - **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**
