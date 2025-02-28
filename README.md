@@ -205,6 +205,10 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 - **IGTR: Autoregressive Image Generation Guided by Chains of Thought**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.16965)
+
+- **Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20388)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://oliverrensu.github.io/project/xAR/)
   
 ## Video Generation
 
