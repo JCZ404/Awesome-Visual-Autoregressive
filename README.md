@@ -220,6 +220,11 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 
 
+- FAR: Frequency Autoregressive Image Generation with Continuous Tokens
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.05305)
+  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/yuhuUSTC/FAR)
+
+
 ## Video Generation
 
 - Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation
