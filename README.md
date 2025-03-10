@@ -201,7 +201,7 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 - Fractal Generative Models
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17437)
-  [![Star](https://img.shields.io/github/stars/sjtuplayer/IAR.svg?style=social&label=Star)](https://github.com/LTH14/fractalgen)
+  [![Star](https://img.shields.io/github/stars/LTH14/fractalgen.svg?style=social&label=Star)](https://github.com/LTH14/fractalgen)
 
 - IGTR: Autoregressive Image Generation Guided by Chains of Thought
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.16965)
@@ -212,17 +212,17 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 - UniTok: A Unified Tokenizer for Visual Generation and Understanding
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20321)
-  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
 
 - FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20313)
-  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/jiaosiyu1999/FlexVAR)
+  [![Star](https://img.shields.io/github/stars/jiaosiyu1999/FlexVAR.svg?style=social&label=Star)](https://github.com/jiaosiyu1999/FlexVAR)
 
 
 
 - FAR: Frequency Autoregressive Image Generation with Continuous Tokens
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.05305)
-  [![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)](https://github.com/yuhuUSTC/FAR)
+  [![Star](https://img.shields.io/github/stars/yuhuUSTC/FAR.svg?style=social&label=Star)](https://github.com/yuhuUSTC/FAR)
 
 
 ## Video Generation
@@ -253,7 +253,7 @@ This is a curated list of recent visual autoregressive modeling works, including
 
 - Next Block Prediction: Video Generation via Semi-Autoregressive Modeling
    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07737)
-   [![Star](https://img.shields.io/github/stars/cyw-3d/SAR3D.svg?style=social&label=Star)](https://github.com/RenShuhuai-Andy/NBP)
+   [![Star](https://img.shields.io/github/stars/RenShuhuai-Andy/NBP.svg?style=social&label=Star)](https://github.com/RenShuhuai-Andy/NBP)
    [![Website](https://img.shields.io/badge/Website-9cf)](https://renshuhuai-andy.github.io/NBP-project/)
   
 
