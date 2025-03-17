@@ -218,13 +218,13 @@ This is a curated list of recent visual autoregressive modeling works, including
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20313)
   [![Star](https://img.shields.io/github/stars/jiaosiyu1999/FlexVAR.svg?style=social&label=Star)](https://github.com/jiaosiyu1999/FlexVAR)
 
-
-
 - FAR: Frequency Autoregressive Image Generation with Continuous Tokens
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.05305)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05305)
   [![Star](https://img.shields.io/github/stars/yuhuUSTC/FAR.svg?style=social&label=Star)](https://github.com/yuhuUSTC/FAR)
 
-
+- DAR: Direction-Aware Diagonal Autoregressive Image Generation
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11129)
+  
 ## Video Generation
 
 - Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation
